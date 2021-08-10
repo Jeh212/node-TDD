@@ -15,6 +15,8 @@
     "eslint-plugin-import": "2",
     "eslint-plugin-node": "11",
     "eslint-plugin-promise": "4",
+    "husky": "^7.0.1",
+    "lint-staged": "^11.1.2",
     "typescript": "^4.3.5"
   }
 }
